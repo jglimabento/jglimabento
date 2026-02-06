@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá! Sou o João Guilherme 👋
+**QA Engineer Pleno | Especialista em Automação (Cypress & API)**
 
-<!--
-**jglimabento/jglimabento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moro em Brasília e transformo requisitos complexos em software à prova de falhas. Com background Full Stack, atuo na ponte técnica entre Devs e Negócio para garantir qualidade desde a arquitetura.
 
-Here are some ideas to get you started:
+🔭 **Foco Atual (Projetos & Estudos):**
+- Desenvolvimento de arquiteturas de testes escaláveis com **Cypress + TypeScript**.
+- Implementação de pipelines de CI/CD para automação contínua.
+- Refatoração de testes legados para redução de *flakiness*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Arsenal Técnico:**
+- **Core:** Cypress.io, JavaScript/TypeScript, Testes de API (Postman/Insomnia).
+- **Backend Knowledge:** Node.js, PHP (Laravel), SQL.
+- **Processos:** Scrum, Kanban, Jira, Shift-Left Testing.
+
+📫 **Contato:** https://www.linkedin.com/in/joao-guilherme-lima-bento/
