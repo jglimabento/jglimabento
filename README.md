@@ -1,16 +1,23 @@
-### Olá! Sou o João Guilherme 👋
-**QA Engineer Pleno | Especialista em Automação (Cypress & API)**
+Olá! Sou o João Guilherme 👋
+Software Engineer | Full Stack Developer | Node.js • Angular • PHP (Laravel)
 
-Moro em Brasília e transformo requisitos complexos em software à prova de falhas. Com background Full Stack, atuo na ponte técnica entre Devs e Negócio para garantir qualidade desde a arquitetura.
+Moro em Brasília e transformo requisitos de negócios em arquiteturas de software escaláveis e seguras. Com 3 anos de experiência em setores críticos como Fintech e Saúde, foco na construção de sistemas onde performance e integridade de dados são prioridades inegociáveis.
 
-🔭 **Foco Atual (Projetos & Estudos):**
-- Desenvolvimento de arquiteturas de testes escaláveis com **Cypress + TypeScript**.
-- Implementação de pipelines de CI/CD para automação contínua.
-- Refatoração de testes legados para redução de *flakiness*.
+🔭 Foco Atual (Projetos & Engenharia):
+Arquiteturas de Backend: Desenvolvimento de APIs de alta performance utilizando Node.js (Fastify), Prisma ORM e TypeScript.
+Ecossistema de Dados: Modelagem relacional e orquestração de ambientes conteinerizados com Docker e PostgreSQL.
+Sistemas Críticos: Implementação de lógicas financeiras atômicas e fluxos complexos de integração.
+Formação: Graduado em Análise e Desenvolvimento de Sistemas pelo UniCEUB.
 
-🛠️ **Arsenal Técnico:**
-- **Core:** Cypress.io, JavaScript/TypeScript, Testes de API (Postman/Insomnia).
-- **Backend Knowledge:** Node.js, PHP (Laravel), SQL.
-- **Processos:** Scrum, Kanban, Jira, Shift-Left Testing.
+🛠️ Arsenal Técnico:
 
-📫 **Contato:** https://www.linkedin.com/in/joao-guilherme-lima-bento/
+Backend: Node.js, TypeScript, PHP (Laravel), SQL.
+Frontend: Angular, JavaScript, HTML5/CSS3.
+Infra & Tools: Docker, PostgreSQL, Prisma, Git, Postman.
+Engenharia de Qualidade (Diferencial): Frameworks de automação (Cypress), Testes E2E/API e pipelines de CI/CD.
+
+📈 Experiência Consolidada:
+Minha trajetória inclui o desenvolvimento e a sustentação de sistemas hospitalares complexos e plataformas de serviços financeiros, atuando em todo o ciclo de vida do software (SDLC). Essa base técnica me permite entregar códigos limpos, altamente testáveis e prontos para produção.
+
+📫 Conecte-se comigo:
+LinkedIn: linkedin.com/in/joao-guilherme-lima-bento/
